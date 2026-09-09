@@ -9,6 +9,9 @@
     color: #080808;
 }
 
+
+
+/* ปุ่มสไตล์ บรรทัดที่ 13-28 */
 .key {
     min-width: 0;
     border: 3px solid #111111;
@@ -23,7 +26,11 @@
 .key:hover {
     filter: brightness(0.96);
 }
+/* -------------------- */
 
+
+
+/* ปุ่มที่ถูกกด */
 .key:active {
     transform: translateY(2px);
 }
